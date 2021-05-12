@@ -1,1 +1,1 @@
-# containers-map-additional
+# containers-map-additional [![Build status](https://ci.appveyor.com/api/projects/status/gdoa9usqbup3adgk/branch/main?svg=true)](https://ci.appveyor.com/project/barsich/containers-map-additional/branch/main)
